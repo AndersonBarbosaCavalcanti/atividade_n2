@@ -9,7 +9,7 @@ Semestre: 2022.1 <br/>
 
 ## Tema desenvolvido no projeto
 
-![alt text](diagrama_de_classes_N2.png)
+![alt text](sistema_para_cinema.png)
 
 ## Diagrama de classes
 
